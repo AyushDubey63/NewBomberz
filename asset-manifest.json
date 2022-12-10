@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewBomberz/static/css/main.cc8573da.css",
+    "main.js": "/NewBomberz/static/js/main.a70bcac2.js",
+    "static/js/787.4c026eef.chunk.js": "/NewBomberz/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewBomberz/static/media/loading.b51df3f3ec072548cb48.gif",
+    "index.html": "/NewBomberz/index.html",
+    "main.cc8573da.css.map": "/NewBomberz/static/css/main.cc8573da.css.map",
+    "main.a70bcac2.js.map": "/NewBomberz/static/js/main.a70bcac2.js.map",
+    "787.4c026eef.chunk.js.map": "/NewBomberz/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc8573da.css",
+    "static/js/main.a70bcac2.js"
+  ]
+}
